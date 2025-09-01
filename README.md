@@ -31,8 +31,8 @@
 
 ## **📈 GitHub Stats**  
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)](https://github.com/ImaadCx)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/ImaadCx)  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImaadCx&show_icons=true&theme=dark&hide_border=true)](https://github.com/ImaadCx)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaadCx&layout=compact&theme=dark&hide_border=true)](https://github.com/ImaadCx)  
 
 ---
 
