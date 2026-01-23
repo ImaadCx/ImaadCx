@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Mohamedimaad "CrimsonX" Purkar  
-### **Data Engineer | ETL Specialist | Big Data Enthusiast | Gamer**  
+# 👋 Hello, I'm Mohamedimaad Purkar  
+### **Data Engineer | ETL Specialist | Big Data Enthusiast | **  
 📍 Based in *Navi Mumbai* | 💼 Open to Collaborations  
 
 ---
